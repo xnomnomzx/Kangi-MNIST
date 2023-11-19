@@ -1,0 +1,1 @@
+Exploring and evaluate the performance of three distinct machine learning models: Support Vector Classification (SVC), K-Nearest Neighbors (KNN),and Convolutional Neural Networks (CNN) on the Kanji MNIST dataset. This dataset comprises 49 handwritten Japanese Kanji characters, making it a challenging yet intriguing case study for classification tasks.
